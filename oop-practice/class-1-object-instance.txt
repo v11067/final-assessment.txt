@@ -1,7 +1,21 @@
-name_of_books (string)
+//Instance
 
-total_chemicals (integer)
+//Attributes:
 
-methods (hash)
+name_of_books = "Nature"
 
-is_curiosity (bloolean)
+total_chemicals = 1000
+
+methods = {"Dr Sadahiro's" = 99%, "Dr Hayter's" = 97%, "Dr Morison's" = 93%}
+
+is_curiosity = true
+
+//Methods:
+
+experiment_methods: methods = {"Dr Sadahiro's" = 99%, "Dr Hayter's" = 97%, "Dr Morison's" = 93%}
+
+research: name_of_books = "Nature"
+
+be_safe: total_chemicals = 1000
+
+innovate: is_curiosity = true
