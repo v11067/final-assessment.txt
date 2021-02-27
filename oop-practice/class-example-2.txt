@@ -1,0 +1,21 @@
+//Class: Math
+
+//Attributes:
+
+name_of_books
+
+number_of_formular
+
+categories
+
+is_fun
+
+//Methods:
+
+experiment (modifies the name_of_books attribute)
+
+change (modifies the number_of_formular attribute)
+
+match (modifies the category attribute)
+
+have (modifies the is_fun attribute)
