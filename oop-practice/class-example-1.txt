@@ -1,14 +1,20 @@
-Class: Book
+Class: Science
 
 Attributes:
 
-title (string)
+name_of_books (string)
 
-total_pages (integer)
+total_chemicals (integer)
 
-published_date (hash)
+methods (hash)
 
-is_scary (bloolean)
+is_curiosity (bloolean)
 
 Methods:
-change_title (modifies title attribute)
+experiment_methods (modifies the methods attribute)
+
+research (modifies the name_of_books attribute)
+
+be_safe (used the total_chemicals attribute)
+
+innovate (uses the is_curiosity attribute)
