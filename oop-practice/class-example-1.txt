@@ -1,0 +1,14 @@
+Class: Book
+
+Attributes:
+
+title (string)
+
+total_pages (integer)
+
+published_date (hash)
+
+is_scary (bloolean)
+
+Methods:
+change_title (modifies title attribute)
