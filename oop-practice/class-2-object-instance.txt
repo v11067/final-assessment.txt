@@ -1,0 +1,21 @@
+//Instance
+
+//Attributes:
+
+name_of_books = "Monthly Math"
+
+number_of_formular = 99999
+
+categories = ["Foundations", "Number theory", "Algebra", "Geometry"]
+
+is_fun = false
+
+//Methods:
+
+experiment: name_of_books = "Monthly Math"
+
+change: number_of_formular = 99999
+
+match: categories = ["Foundations", "Number theory", "Algebra", "Geometry"]
+
+have: is_fun = false
