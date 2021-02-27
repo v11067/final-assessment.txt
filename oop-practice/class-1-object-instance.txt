@@ -1,0 +1,7 @@
+name_of_books (string)
+
+total_chemicals (integer)
+
+methods (hash)
+
+is_curiosity (bloolean)
